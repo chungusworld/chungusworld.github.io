@@ -1,4 +1,3 @@
-## ChungusWorld
 # Server address:
 `chungusworld.fail`
 # ChungusWorld Map:
