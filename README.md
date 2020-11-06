@@ -1,6 +1,4 @@
 # Server address:
 `chungusworld.fail`
-# ChungusWorld Map:
-[http://map.chungusworld.fail/](http://map.chungusworld.fail/)
-# ChungusWorld Resource Pack:
-[https://github.com/chungusworld/chungusworld-resource-pack](https://github.com/chungusworld/chungusworld-resource-pack)
+
+[View ChungusWorld Resource Pack on GitHub](https://github.com/chungusworld/chungusworld-resource-pack)
