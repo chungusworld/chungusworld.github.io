@@ -1,3 +1,5 @@
+# Server address:
+`chungusworld.fail`
 ## ChungusWorld Map:
 [http://map.chungusworld.fail/](http://map.chungusworld.fail/)
 ## ChungusWorld Resource Pack:
